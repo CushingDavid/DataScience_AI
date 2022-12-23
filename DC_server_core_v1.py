@@ -11,7 +11,7 @@ from Functions.external_functions import Program_Info
 #  info = Program_Info("the name",the version,)
 data = Program_Info("CSCK541 Software in Development Group Project", "1.0", "May 2022",
                     "C.Beeby, D. Cushing, D. Lambert ",
-                    "D.Lambert", "email", "Dlambert3@Liverpool.ac.uk", "Computer Science MSc")
+                    )
 
 # initialize the log settings.
 logging.basicConfig(filename='Server_app.log', filemode='w', level=logging.DEBUG)  # Set logging options.
