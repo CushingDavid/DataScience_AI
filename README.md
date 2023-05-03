@@ -8,7 +8,7 @@ The code examples include:
 * Python & Recursion 
 * Mathematics & Statistics
 * Deep Learning with Keras and Tensorflow
-* Unsupervised ML
+* Unsupervised ML & Clustering
 * Regression
 * Decision Trees
 
