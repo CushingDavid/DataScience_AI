@@ -15,8 +15,14 @@ The course modules that I've completed are:
 ![#0e2f44](https://via.placeholder.com/15/0e2f44/0e2f44.png) 8.   
     
 
-
-
+1. Global Trends in Computer Science:
+    * Trends, Data Management, Risks, Security, Ethics, Big Data, IoT
+2. Databases and Information Systems:
+    * Database Fundamentals, Relational database models, SQL, NoSQL, Transactions, Queries, APIs, Graph data models.  
+3. Software Development in Practice:
+    * Software Engineering Principles, Python, OOP, Data structures, Recursion, GUIs, Networks
+4. Maths and Statistics for AI and Data Science
+    * Differential Calculus, Linear Transformations and Orthogonality, Matrix Decomposition and Vector Calculus, Probability Distribution, Descriptive and inferential statistics
 * Python & Recursion 
 * Mathematics & Statistics
 * Deep Learning with Keras and Tensorflow
