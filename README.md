@@ -28,7 +28,7 @@ The course modules that I've completed are:
 6. Deep Learning
     * Cloud Computing, Neural Networks, Keras & Tensorflow, Regularization and optimization, CNNs, RNNs, GANs, VAEs, LSTM, GRU, Deep Reinforcement Learning.
 7. Reasoning and Intelligent Systems
-    *  
+    * Prolog, Rule-based Expert Systems, Bayesian networks, Evolutionary Computation Algorithms, Fuzzy Expert Systems, Inductive reasoning, Temporal and spatial reasoning
 * Python & Recursion 
 * Mathematics & Statistics
 * Deep Learning with Keras and Tensorflow
