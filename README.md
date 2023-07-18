@@ -23,6 +23,12 @@ The course modules that I've completed are:
     * Software Engineering Principles, Python, OOP, Data structures, Recursion, GUIs, Networks
 4. Maths and Statistics for AI and Data Science
     * Differential Calculus, Linear Transformations and Orthogonality, Matrix Decomposition and Vector Calculus, Probability Distribution, Descriptive and inferential statistics
+5. Machine Learning in Practice
+    * Data prep, Supervised Machine Learning, Classification & Regression Techniques, Unsupervised Machine Learning, k-Means, HAC, DBSCAN, k-NN, SVM and NBC, Association Rules Mining,  PCA and NMF
+6. Deep Learning
+    * Cloud Computing, Neural Networks, Keras & Tensorflow, Regularization and optimization, CNNs, RNNs, GANs, VAEs, LSTM, GRU, Deep Reinforcement Learning.
+7. Reasoning and Intelligent Systems
+    *  
 * Python & Recursion 
 * Mathematics & Statistics
 * Deep Learning with Keras and Tensorflow
